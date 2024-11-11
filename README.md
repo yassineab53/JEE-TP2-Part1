@@ -2,6 +2,11 @@
 
 This is a Java EE project for learning and practicing web development concepts.
 
+## Requirements
+**JDK 8 or higher** <br>
+**Maven** for dependency management and project build<br>
+**JEE-compatible server** (such as Tomcat, WildFly, or GlassFish) <br>
+
 ## Technologies Used
 - Java EE
 - Servlets
